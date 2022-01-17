@@ -1,2 +1,3 @@
 # COMPUTER VISION AND PATTERN RECOGNITION
-![image](https://user-images.githubusercontent.com/60177352/149737000-c415b56b-6361-4c46-a32f-1b92def4cae5.png)
+![Picture1](https://user-images.githubusercontent.com/60177352/149737281-0926ac41-8725-4a7f-b594-44f1d6335c3d.gif)
+
